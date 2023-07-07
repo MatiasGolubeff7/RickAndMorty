@@ -1,0 +1,8 @@
+.contain input {
+  width: 80%;
+  border-radius: 10px;
+}
+
+.contain svg {
+  padding-left: 5%;
+}
